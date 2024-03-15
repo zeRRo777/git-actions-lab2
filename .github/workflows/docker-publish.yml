@@ -42,7 +42,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: zeRRo777/git-actions-lab2
+          images: zerro123/git-actions-lab2
           tags: |
               type=schedule
               type=ref,event=branch
